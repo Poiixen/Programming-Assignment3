@@ -48,6 +48,10 @@ in bash,
 ```
 python main.py < data/example.in
 ```
+OR
+```
+cat data/example.in | python main.py
+```
 
 Expected output:
 9
