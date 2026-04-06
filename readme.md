@@ -44,8 +44,10 @@ Programming-Assignment-3/
 ## How to Run
 ### Run the HVLCS solver
 
+in bash,
+```
 python main.py < data/example.in
-
+```
 
 Expected output:
 9
