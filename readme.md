@@ -55,9 +55,9 @@ cb
 
 
 General usage:
-
+```
 python main.py < data/test01.in
-
+```
 ### Run benchmarks and generate the runtime graph
 
 python test.py
